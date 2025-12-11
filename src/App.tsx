@@ -40,7 +40,7 @@ function App() {
           {/* 2ª Via de Fatura */}
           <div className="group">
             <button
-              onClick={() => handleWhatsAppRedirect("Olá! Gostaria de solicitar a 2ª via da minha fatura.")}
+              onClick={() => handleWhatsAppRedirect("Olá! Iniciar atendimento.")}
               className="w-full bg-white hover:bg-blue-50 border-2 border-blue-100 hover:border-blue-300 rounded-2xl p-8 transition-all duration-300 transform hover:scale-105 hover:shadow-xl shadow-lg"
             >
               <div className="flex flex-col items-center text-center space-y-4">
